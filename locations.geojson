@@ -4,14 +4,23 @@
         {
             "type": "Feature",
             "properties": {
-                "description":"Some geometry, maybe a regular one",
-                "name":"My Geometry",
+                "FACILITY_I": 123976,
+                "SERVICE_DA": "2007/03/26",
+                "CALL_SIGN": "NULL",
+                "CHANNEL": 234,
+                "APP_ID": 500243,
+                "COUNTRY": "US",
+                "CLASS": "L1",
+                "SERVICE_TY": "FL",
+                "STATE": "GA",
+                "TRANSLATOR": 0,
+                "CITY": "SPRINGFIELD"
             },
-            "geometry": { 
-                "type": "Polygon",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [
-                    [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0], [100.0, 1.0], [100.0, 0.0] ],
-                    [ [100.2, 0.2], [100.8, 0.2], [100.8, 0.8], [100.2, 0.8], [100.2, 0.2] ]
+                    -81.29955490661087,
+                    32.354080966941915
                 ]
             }
         }
