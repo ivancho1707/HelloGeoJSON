@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Condesa",
+                "name": "Parque Mexico",
                 "description": "My neighborhood"
             },
             "geometry": {
@@ -12,6 +12,48 @@
                 "coordinates": [
                     -99.169314,
                     19.412566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Mexico",
+                "description": "My neighborhood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.169317,
+                    19.412565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Mexico",
+                "description": "My neighborhood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.169312,
+                    19.412564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parque Mexico",
+                "description": "My neighborhood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.169316,
+                    19.412567
                 ]
             }
         }
