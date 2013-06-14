@@ -4,17 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "FACILITY_I": 123976,
-                "SERVICE_DA": "2007/03/26",
-                "CALL_SIGN": "NULL",
-                "CHANNEL": 234,
-                "APP_ID": 500243,
-                "COUNTRY": "US",
-                "CLASS": "L1",
-                "SERVICE_TY": "FL",
-                "STATE": "GA",
-                "TRANSLATOR": 0,
-                "CITY": "SPRINGFIELD"
+                "name": "my area",
+                "description": "My territories"
             },
             "geometry": {
                 "type": "Point",
