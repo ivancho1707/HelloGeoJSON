@@ -3,11 +3,10 @@
     "id": "OpenLayers.Feature.Vector_314",
     "properties": {},
     "geometry": {
-        "type": "Point",
-        "coordinates": [
-            97.03125,
-            39.7265625
-        ]
+        "type": "Polygon",
+        "coordinates": [[
+            [-180.0, 10.0], [20.0, 90.0], [180.0, -5.0], [-30.0, -90.0]
+        ]]
     },
     "crs": {
         "type": "name",
